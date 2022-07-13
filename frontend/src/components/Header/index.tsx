@@ -1,5 +1,5 @@
-import logo from "../../assets/img/logo.svg"
-import "./stile.css"
+import logo from "../../assets/img/logo.svg";
+import "./stile.css";
 function Header() {
   return (
     <header>
