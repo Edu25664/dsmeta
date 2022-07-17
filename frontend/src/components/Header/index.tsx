@@ -8,7 +8,7 @@ function Header() {
         <h1>DSMeta</h1>
         <p>
           Desenvolvido por
-          <a href="https://www.instagram.com/devsuperior.ig">@Eduardo Oliveira Ramos</a>
+          <a href="https://github.com/Edu25664/dsmeta"> Eduardo Oliveira Ramos</a>
         </p>
       </div>
     </header>
