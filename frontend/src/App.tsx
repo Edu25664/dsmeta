@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 //App tsx é um componente principal do projeto
 function App() {
   return (<>
-    <ToastContainer></ToastContainer>
+    <ToastContainer/>
   <Header/>
   <main>
       <section id="sales">
